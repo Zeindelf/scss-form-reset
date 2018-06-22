@@ -13,6 +13,12 @@
     "email": "zeindelf@hotmail.com",
     "homepage": "https://www.zeindelf.com"
   },
+  "files": [
+    "_form-reset.scss",
+    "LICENSE.md",
+    "README.md"
+  ],
+  "main": "_form-reset.scss",
   "keywords": [
     "css",
     "scss",
