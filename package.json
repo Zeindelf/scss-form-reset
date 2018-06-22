@@ -1,0 +1,29 @@
+{
+  "name": "scss-form-reset",
+  "version": "0.0.1",
+  "description": "SASS Mixins/Placeholders to reset all form elements",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeindelf/scss-form-reset.git"
+  },
+  "homepage": "https://github.com/zeindelf/scss-form-reset",
+  "license": "MIT",
+  "author": {
+    "name": "Zeindelf",
+    "email": "zeindelf@hotmail.com",
+    "homepage": "https://www.zeindelf.com"
+  },
+  "keywords": [
+    "css",
+    "scss",
+    "sass",
+    "form",
+    "form-reset",
+    "helper",
+    "front-end",
+    "development"
+  ],
+  "bugs": {
+    "url": "https://github.com/Zeindelf/scss-form-reset/issues"
+  }
+}
