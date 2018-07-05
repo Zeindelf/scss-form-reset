@@ -1,6 +1,6 @@
 {
   "name": "scss-form-reset",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "SASS Mixins/Placeholders to reset all form elements",
   "repository": {
     "type": "git",

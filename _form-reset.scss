@@ -17,6 +17,12 @@
  * - IE: You don't need to fake inline-block with labels and form controls in IE. They function as inline-block.
  * - By turning off ::-webkit-search-decoration, it removes the extra whitespace on the left on search inputs
  */
+
+// ==========================================================================
+// Config
+// ==========================================================================
+$form-reset-box-sizing: inherit !default;
+
 @mixin form-reset-general {
     display: inline-block;
     margin: 0;
@@ -39,7 +45,7 @@
 }
 
 @mixin form-reset-special-box-sizing {
-    box-sizing: border-box;
+    box-sizing: $form-reset-box-sizing;
 }
 
 %form-reset-special-box-sizing {
